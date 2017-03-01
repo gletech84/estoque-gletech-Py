@@ -1,6 +1,7 @@
 from tkinter import *
-import sqlite3
-import time
-import datetime
-from time import strftime
-from tkinter import messagebox
+login = Tk()
+login.title('estoque-gletech-Py')
+login.geometry('675x337+337+100')
+login['bg']='black'
+login.resizable(width='False',height='False')
+login.mainloop()
